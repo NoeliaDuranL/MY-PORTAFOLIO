@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/girls-portafolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "girl in Lago Titicaca, Bolivia";
 
 /**
  * Project list
@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Demand Forecast Calculation System with the use of different methods",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A collaboration with my team to create a system that calculates the demand forecast using different methods.",
+    url: "https://github.com/madizongonzales/SistemaPronosticos",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Medication Reminder",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A collaboration with my team to create a system that reminds the user of their medication schedule.",
+    url: "https://github.com/NoeliaDuranL/Recordatorio_Medicamentos",
   },
 ];
 
